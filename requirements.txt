@@ -1,0 +1,4 @@
+fastapi==0.92.0
+SQLAlchemy==2.0.4
+urllib3==1.26.14
+uvicorn==0.20.0
